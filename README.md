@@ -11,7 +11,6 @@ A React Native movie search app using create-react-native-app
 Clone repo, install, cd into folder and run:
 ```git
 npm install
-npm start
 npm run ios
 ```
 
