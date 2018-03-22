@@ -1,1 +1,1 @@
-![Alt text](https://monosnap.com/file/DsZLBLsbvdGfG8bJZjBeURClnvyKeW.png)
+![Alt text](https://monosnap.com/file/WUdAW0Orx5vhoPew7jU8sfGQ8AfufN.png)
